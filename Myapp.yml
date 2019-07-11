@@ -1,1 +1,3 @@
-"greetingMessage" : "Planning for Coffee????"
+greetingMessage : "Planning for Coffee???"
+person:
+  name: "srini"
